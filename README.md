@@ -1,6 +1,4 @@
 ## 欢迎来到我的主页 👋
-### Love
-- Rust - Python - Bash - C
 ### 项目展示
 - [Tiks](https://github.com/zhangzijie-pro/Tiks.git)：在各系统上可以模拟Linux命令行的运行。
 
