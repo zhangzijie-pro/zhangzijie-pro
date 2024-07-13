@@ -1,6 +1,7 @@
 ## 欢迎来到我的主页 👋
 ### 项目展示
 - [Tiks](https://github.com/zhangzijie-pro/Tiks.git)：在各系统上可以模拟Linux命令行的运行。
+- [Tzcode](https://github.com/zhangzijie-pro/Tzcode.git): 类vscode简易编辑器(在更新中)
 
 ### 联系我
 如果你对我的项目或者其他任何事情感兴趣，欢迎与我联系！
